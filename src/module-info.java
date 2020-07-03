@@ -1,0 +1,2 @@
+module Tuto1 {
+}
